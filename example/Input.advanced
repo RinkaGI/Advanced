@@ -1,8 +1,0 @@
-' clean terminal (optional)
-CLS
-
-' get name of the user and saving on variable called name
-INPUT "Write your name: " name
-
-' print the name
-PRINT "Your name is: " + name

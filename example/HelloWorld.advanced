@@ -1,5 +1,0 @@
-' clean terminal (optional)
-CLS
-
-' print hello world
-PRINT "hello world"
